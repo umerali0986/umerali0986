@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi,
-My name is umer. I have a bachelor's degree in computer science and I have some basics about programming as well. However, I want to be good at coding and solving problems. So, I decided to upskill my knowledges and become a software developer.
+
+My name is umer. I have a bachelor's degree in computer science and I have some basics about programming as well. However, I want to be good at coding and solving problems. So, I decided to upskill my knowledge and become a software developer.
