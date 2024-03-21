@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is umer. I have a bachelor's degree in computer science and I have some basics about programming as well. However, I want to be good at coding and solving problems. So, I decided to upskill my knowledge and become a software developer.
+My name is Umer Abubeker. I have a bachelor's degree in computer science. Passionate Full-Stack Junior Software Engineer with a strong foundation in solving complex problems through innovative coding solutions. My technical expertise includes proficiency in languages such as Java and JavaScript along with in-depth knowledge of modern frameworks and technologies like Angular, Vue.js, and Spring Boot. I thrive in collaborative and agile environments. My dedication to continuous learning drives me to stay up-to-date with the latest industry trends and best practices to drive positive changes through software applications. 
